@@ -11,7 +11,7 @@ This is simple example of real-time face recognition via webcam, based on [face_
    pip3 install face_recognition
    ```
    If you have any problems, see the [source instructions](https://github.com/ageitgey/face_recognition#installation).
-3. Put photos of people whose faces you will recognize on the webcam in the "*photos*" folder. **Important**: The file must be like "*person_name.jpg*"
+3. Put photos of people whose faces you will recognize on the webcam in the "*photos*" folder. **Important**: The file name must be like "*person_name.jpg*"
 4. Start recognation:
     ```bash
     python face_det_n_rec.py
